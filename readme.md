@@ -2,7 +2,7 @@
 
 # Lab | Feature extraction
 
-For this lab, we will be using the same dataset we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
+For this lab, we will be using the same dataset we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previously created and used in labs. 
 
 ### Instructions
 
